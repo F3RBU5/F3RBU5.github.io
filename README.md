@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=F3RBU5.F3RBU5&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=F3RBU5.F3RBU5&left_text=My%20Visitors"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="400" src="https://static.vecteezy.com/system/resources/previews/013/445/888/original/hacker-data-security-technology-blue-background-data-secure-theft-crime-hack-digital-tech-abstract-privacy-hi-tech-binary-code-virus-attack-data-internet-network-connection-illustration-vector.jpg"  />
-</div>
+<img align="right" height="300" src="https://static.vecteezy.com/system/resources/previews/013/445/888/original/hacker-data-security-technology-blue-background-data-secure-theft-crime-hack-digital-tech-abstract-privacy-hi-tech-binary-code-virus-attack-data-internet-network-connection-illustration-vector.jpg"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=F3RBU5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="230" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F3RBU5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="230" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=F3RBU5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=F3RBU5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F3RBU5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=F3RBU5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###

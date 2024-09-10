@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://static.vecteezy.com/system/resources/previews/013/445/888/original/hacker-data-security-technology-blue-background-data-secure-theft-crime-hack-digital-tech-abstract-privacy-hi-tech-binary-code-virus-attack-data-internet-network-connection-illustration-vector.jpg"  />
+  <img height="400" src="https://static.vecteezy.com/system/resources/previews/013/445/888/original/hacker-data-security-technology-blue-background-data-secure-theft-crime-hack-digital-tech-abstract-privacy-hi-tech-binary-code-virus-attack-data-internet-network-connection-illustration-vector.jpg"  />
 </div>
 
 ###

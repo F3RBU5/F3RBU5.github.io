@@ -17,6 +17,8 @@
 
 ###
 
+<br>
+
 <h1 align="left">Languages Known</h1>
 
 <div align="left">
@@ -30,6 +32,8 @@
 </div>
 
 ###
+
+<br>
 
 <h1 align="left">My Socials</h1>
 
